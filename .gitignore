@@ -1,0 +1,6 @@
+.vagrant
+.DS_Store
+
+test_dashboard/*
+!test_dashboard/.gitkeep
+
