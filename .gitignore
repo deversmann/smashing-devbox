@@ -4,3 +4,6 @@
 test_dashboard/*
 !test_dashboard/.gitkeep
 
+vanilla_dashboard/*
+!vanilla_dashboard/.gitkeep
+
